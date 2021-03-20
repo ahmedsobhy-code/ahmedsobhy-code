@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm ahmed sobhy mohamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and developing applications and websites desktop_computer. I'd love to combine my passion for programming and learning with my software engineering skills to continue building technologist more personalized applications and websites for people . I have a passion to learn everything new heart, contributing to the progress of mankind, and show creativity and possibilities in everything I do sparkles.</h3>
+<h3 align="center">A passionate front-end developer from Egypt I'm a Software Engineer / Developer 👨🏻‍💻 who loves building and developing applications and websites desktop_computer. I'd love to combine my passion for programming and learning with my software engineering skills to continue building technologist more personalized applications and websites for people . I have a passion to learn everything new heart, contributing to the progress of mankind, and show creativity and possibilities in everything I do sparkles.</h3>
 
 - 📫 How to reach me **ahmedelmosher87@gmail.com**
 
